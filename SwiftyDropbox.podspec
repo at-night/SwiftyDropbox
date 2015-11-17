@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://dropbox.com/developers/"
   s.license      = "MIT"
   s.author       = { "Ryan Pearl" => "rpearl@dropbox.com" }
-  s.source    = { :git => "https://github.com/dropbox/SwiftyDropbox.git", :tag => "0.8" }
+  s.source    = { :git => "https://github.com/at-night/SwiftyDropbox.git", :tag => "0.8" }
   s.source_files = "Source/*.{h,m,swift}"
   s.requires_arc = true
   s.ios.deployment_target = "8.0"
